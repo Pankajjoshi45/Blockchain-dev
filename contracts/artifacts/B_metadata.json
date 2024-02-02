@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "go",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "status",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/errorhandling.sol": "B"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/errorhandling.sol": {
+			"keccak256": "0xbbd435539ce744d783f252d8559b1086f418a629aea442e1ac1ad2c1e26c40ee",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://208c4316cef37b03817327d268c14230742e6361d95e7e0cdfdb103a41ac38f3",
+				"dweb:/ipfs/QmTRXzbWRcGtosHqBChExjoBKo6w8ULghy2mVW2ewVWBgi"
+			]
+		}
+	},
+	"version": 1
+}

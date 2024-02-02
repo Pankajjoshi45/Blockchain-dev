@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop1",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Loops.sol": "Whiloop"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Loops.sol": {
+			"keccak256": "0x5c58594e3d138540b0bd02690e793a5bec42c3c1d8c6f3945c664f9e775e67ef",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8e9ce208c935b85ea53ce8bceb471cf8cfffd0b35b8e9cfde556bc7fc04e577f",
+				"dweb:/ipfs/QmTCvwktFQZyqyFBifeBXoQ1DRsFhyfoxWVzUiBzKA4fn5"
+			]
+		}
+	},
+	"version": 1
+}
